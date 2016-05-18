@@ -1,0 +1,4 @@
+We are writing to file named example_2.txt line 1
+we are writing to file same name line 2 
+Writing again to the same file line 3
+Writing and last line an end of line
